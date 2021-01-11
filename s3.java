@@ -9,7 +9,7 @@ public class s3 {
 			long B = sc.nextLong();
 			long AA = toNine(A);
 			long BB = toNine(B);
-			long AAA = toDigit(AA);
+			long AAA = toDigit(AA); 
 			long BBB = toDigit(BB);
 			long res = BBB-AAA;
 			
